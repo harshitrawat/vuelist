@@ -51,3 +51,16 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Work
+
+1. It contains an input box which when click will create another input which show the text written in first inbox.
+2. When we write a new task and press enter it will show inside the list below.
+3. There are two tasks which are default.
+4. We can edit the list tasks by double clicking on the task itself.
+5. If after editing we want the previous task we will press esc key to go to original task.
+6. We can delete the task.
+7. Also this contains the three buttons which will show the completed tasks, active tasks and all tasks when clicked.
+
+
+So in this app everything is there which is required for a to-do app.
